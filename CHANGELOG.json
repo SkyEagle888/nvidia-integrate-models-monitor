@@ -432,6 +432,29 @@
         "mistralai/mistral-large-3-675b-instruct-2512"
       ],
       "total_models": 118
+    },
+    {
+      "timestamp": "2026-07-27T04:51:13.047286Z",
+      "added": [],
+      "removed": [
+        "abacusai/dracarys-llama-3.1-70b-instruct",
+        "bytedance/seed-oss-36b-instruct",
+        "google/gemma-2-2b-it",
+        "google/gemma-3n-e2b-it",
+        "google/gemma-3n-e4b-it",
+        "meta/llama-4-maverick-17b-128e-instruct",
+        "minimaxai/minimax-m2.7",
+        "mistralai/ministral-14b-instruct-2512",
+        "mistralai/mistral-small-4-119b-2603",
+        "mistralai/mixtral-8x7b-instruct-v0.1",
+        "nvidia/gliner-pii",
+        "qwen/qwen3-next-80b-a3b-instruct",
+        "qwen/qwen3.5-397b-a17b",
+        "sarvamai/sarvam-m",
+        "stepfun-ai/step-3.5-flash",
+        "upstage/solar-10.7b-instruct"
+      ],
+      "total_models": 102
     }
   ]
 }
