@@ -1,14 +1,11 @@
 # 📋 NVIDIA Integrated Models List
 
-*Last updated: 2026-07-26 12:41:12 GMT+8*
+*Last updated: 2026-07-27 12:51:13 GMT+8*
 
-Total Models: **118**
+Total Models: **102**
 
 ### 🏢 01-AI
 - `01-ai/yi-large`
-
-### 🏢 ABACUSAI
-- `abacusai/dracarys-llama-3.1-70b-instruct`
 
 ### 🏢 ADEPT
 - `adept/fuyu-8b`
@@ -25,9 +22,6 @@ Total Models: **118**
 ### 🏢 BIGCODE
 - `bigcode/starcoder2-15b`
 
-### 🏢 BYTEDANCE
-- `bytedance/seed-oss-36b-instruct`
-
 ### 🏢 DATABRICKS
 - `databricks/dbrx-instruct`
 
@@ -41,12 +35,9 @@ Total Models: **118**
 - `google/codegemma-7b`
 - `google/deplot`
 - `google/diffusiongemma-26b-a4b-it`
-- `google/gemma-2-2b-it`
 - `google/gemma-2b`
 - `google/gemma-3-12b-it`
 - `google/gemma-3-4b-it`
-- `google/gemma-3n-e2b-it`
-- `google/gemma-3n-e4b-it`
 - `google/gemma-4-31b-it`
 - `google/recurrentgemma-2b`
 
@@ -65,7 +56,6 @@ Total Models: **118**
 - `meta/llama-3.2-3b-instruct`
 - `meta/llama-3.2-90b-vision-instruct`
 - `meta/llama-3.3-70b-instruct`
-- `meta/llama-4-maverick-17b-128e-instruct`
 - `meta/llama-guard-4-12b`
 - `meta/llama2-70b`
 
@@ -75,20 +65,16 @@ Total Models: **118**
 - `microsoft/phi-3.5-moe-instruct`
 
 ### 🏢 MINIMAXAI
-- `minimaxai/minimax-m2.7`
 - `minimaxai/minimax-m3`
 
 ### 🏢 MISTRALAI
 - `mistralai/codestral-22b-instruct-v0.1`
-- `mistralai/ministral-14b-instruct-2512`
 - `mistralai/mistral-7b-instruct-v0.3`
 - `mistralai/mistral-large`
 - `mistralai/mistral-large-2-instruct`
 - `mistralai/mistral-medium-3.5-128b`
 - `mistralai/mistral-nemotron`
-- `mistralai/mistral-small-4-119b-2603`
 - `mistralai/mixtral-8x22b-v0.1`
-- `mistralai/mixtral-8x7b-instruct-v0.1`
 
 ### 🏢 MOONSHOTAI
 - `moonshotai/kimi-k2.6`
@@ -100,7 +86,6 @@ Total Models: **118**
 - `nvidia/ai-synthetic-video-detector`
 - `nvidia/cosmos-reason2-8b`
 - `nvidia/embed-qa-4`
-- `nvidia/gliner-pii`
 - `nvidia/ising-calibration-1-35b-a3b`
 - `nvidia/ising-calibration-1.5-31b`
 - `nvidia/llama-3.1-nemoguard-8b-content-safety`
@@ -150,25 +135,14 @@ Total Models: **118**
 ### 🏢 POOLSIDE
 - `poolside/laguna-xs-2.1`
 
-### 🏢 QWEN
-- `qwen/qwen3-next-80b-a3b-instruct`
-- `qwen/qwen3.5-397b-a17b`
-
-### 🏢 SARVAMAI
-- `sarvamai/sarvam-m`
-
 ### 🏢 SNOWFLAKE
 - `snowflake/arctic-embed-l`
 
 ### 🏢 STEPFUN-AI
-- `stepfun-ai/step-3.5-flash`
 - `stepfun-ai/step-3.7-flash`
 
 ### 🏢 THINKINGMACHINES
 - `thinkingmachines/inkling`
-
-### 🏢 UPSTAGE
-- `upstage/solar-10.7b-instruct`
 
 ### 🏢 WRITER
 - `writer/palmyra-creative-122b`
