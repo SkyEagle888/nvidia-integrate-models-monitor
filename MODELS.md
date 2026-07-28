@@ -1,6 +1,6 @@
 # 📋 NVIDIA Integrated Models List
 
-*Last updated: 2026-07-27 12:51:13 GMT+8*
+*Last updated: 2026-07-28 12:27:39 GMT+8*
 
 Total Models: **102**
 
@@ -86,7 +86,6 @@ Total Models: **102**
 - `nvidia/ai-synthetic-video-detector`
 - `nvidia/cosmos-reason2-8b`
 - `nvidia/embed-qa-4`
-- `nvidia/ising-calibration-1-35b-a3b`
 - `nvidia/ising-calibration-1.5-31b`
 - `nvidia/llama-3.1-nemoguard-8b-content-safety`
 - `nvidia/llama-3.1-nemoguard-8b-topic-control`
@@ -126,6 +125,7 @@ Total Models: **102**
 - `nvidia/nvidia-nemotron-nano-9b-v2`
 - `nvidia/riva-translate-4b-instruct`
 - `nvidia/riva-translate-4b-instruct-v1.1`
+- `nvidia/riva-translate-4b-instruct-v2`
 - `nvidia/vila`
 
 ### 🏢 OPENAI
