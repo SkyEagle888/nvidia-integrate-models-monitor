@@ -465,6 +465,18 @@
         "nvidia/ising-calibration-1-35b-a3b"
       ],
       "total_models": 102
+    },
+    {
+      "timestamp": "2026-08-08T03:00:34.165617Z",
+      "added": [
+        "deepseek-ai/deepseek-v4-flash-0731"
+      ],
+      "removed": [
+        "deepseek-ai/deepseek-v4-flash",
+        "deepseek-ai/deepseek-v4-pro",
+        "mistralai/mistral-medium-3.5-128b"
+      ],
+      "total_models": 100
     }
   ]
 }
