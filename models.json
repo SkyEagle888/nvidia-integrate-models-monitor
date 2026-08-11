@@ -31,6 +31,7 @@
   "meta/llama-3.3-70b-instruct",
   "meta/llama-guard-4-12b",
   "meta/llama2-70b",
+  "meta/muse-glimmer-30b",
   "microsoft/kosmos-2",
   "microsoft/phi-3-vision-128k-instruct",
   "microsoft/phi-3.5-moe-instruct",
