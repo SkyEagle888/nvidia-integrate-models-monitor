@@ -1,8 +1,8 @@
 # 📋 NVIDIA Integrated Models List
 
-*Last updated: 2026-08-11 11:11:05 GMT+8*
+*Last updated: 2026-08-12 11:28:49 GMT+8*
 
-Total Models: **101**
+Total Models: **102**
 
 ### 🏢 01-AI
 - `01-ai/yi-large`
@@ -109,6 +109,7 @@ Total Models: **101**
 - `nvidia/nemotron-3-super-120b-a12b`
 - `nvidia/nemotron-3-ultra-550b-a55b`
 - `nvidia/nemotron-3.5-content-safety`
+- `nvidia/nemotron-3.5-lightning-30b-a3b`
 - `nvidia/nemotron-4-340b-instruct`
 - `nvidia/nemotron-4-340b-reward`
 - `nvidia/nemotron-mini-4b-instruct`

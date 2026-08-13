@@ -485,6 +485,14 @@
       ],
       "removed": [],
       "total_models": 101
+    },
+    {
+      "timestamp": "2026-08-12T03:28:49.798814Z",
+      "added": [
+        "nvidia/nemotron-3.5-lightning-30b-a3b"
+      ],
+      "removed": [],
+      "total_models": 102
     }
   ]
 }
