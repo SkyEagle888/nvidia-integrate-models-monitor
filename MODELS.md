@@ -1,6 +1,6 @@
 # 📋 NVIDIA Integrated Models List
 
-*Last updated: 2026-08-13 11:32:38 GMT+8*
+*Last updated: 2026-08-14 11:29:34 GMT+8*
 
 Total Models: **102**
 
