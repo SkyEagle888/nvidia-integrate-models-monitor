@@ -43,6 +43,7 @@
   "mistralai/mistral-nemotron",
   "mistralai/mixtral-8x22b-v0.1",
   "moonshotai/kimi-k2.6",
+  "moonshotai/kimi-k3",
   "nv-mistralai/mistral-nemo-12b-instruct",
   "nvidia/ai-synthetic-video-detector",
   "nvidia/cosmos-reason2-8b",
