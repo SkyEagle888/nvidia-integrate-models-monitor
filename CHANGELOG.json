@@ -493,6 +493,14 @@
       ],
       "removed": [],
       "total_models": 102
+    },
+    {
+      "timestamp": "2026-08-21T02:36:35.124491Z",
+      "added": [
+        "moonshotai/kimi-k3"
+      ],
+      "removed": [],
+      "total_models": 103
     }
   ]
 }
