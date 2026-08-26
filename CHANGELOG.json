@@ -509,6 +509,20 @@
         "z-ai/glm-5.2"
       ],
       "total_models": 102
+    },
+    {
+      "timestamp": "2026-08-26T02:38:39.774253Z",
+      "added": [],
+      "removed": [
+        "baai/bge-m3",
+        "nvidia/llama-nemotron-embed-1b-v2",
+        "nvidia/nemoretriever-parse",
+        "nvidia/nv-embed-v1",
+        "nvidia/nv-embedcode-7b-v1",
+        "nvidia/nv-embedqa-e5-v5",
+        "thinkingmachines/inkling"
+      ],
+      "total_models": 95
     }
   ]
 }
