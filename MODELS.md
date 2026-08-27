@@ -1,8 +1,8 @@
 # 📋 NVIDIA Integrated Models List
 
-*Last updated: 2026-08-25 10:30:51 GMT+8*
+*Last updated: 2026-08-26 10:38:39 GMT+8*
 
-Total Models: **102**
+Total Models: **95**
 
 ### 🏢 01-AI
 - `01-ai/yi-large`
@@ -15,9 +15,6 @@ Total Models: **102**
 
 ### 🏢 AISINGAPORE
 - `aisingapore/sea-lion-7b-instruct`
-
-### 🏢 BAAI
-- `baai/bge-m3`
 
 ### 🏢 BIGCODE
 - `bigcode/starcoder2-15b`
@@ -99,11 +96,9 @@ Total Models: **102**
 - `nvidia/llama-3.2-nv-embedqa-1b-v1`
 - `nvidia/llama-3.3-nemotron-super-49b-v1`
 - `nvidia/llama-3.3-nemotron-super-49b-v1.5`
-- `nvidia/llama-nemotron-embed-1b-v2`
 - `nvidia/llama-nemotron-embed-vl-1b-v2`
 - `nvidia/llama3-chatqa-1.5-70b`
 - `nvidia/mistral-nemo-minitron-8b-8k-instruct`
-- `nvidia/nemoretriever-parse`
 - `nvidia/nemotron-3-embed-1b`
 - `nvidia/nemotron-3-nano-30b-a3b`
 - `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning`
@@ -118,9 +113,6 @@ Total Models: **102**
 - `nvidia/nemotron-nano-3-30b-a3b`
 - `nvidia/nemotron-parse`
 - `nvidia/neva-22b`
-- `nvidia/nv-embed-v1`
-- `nvidia/nv-embedcode-7b-v1`
-- `nvidia/nv-embedqa-e5-v5`
 - `nvidia/nv-embedqa-mistral-7b-v2`
 - `nvidia/nvclip`
 - `nvidia/nvidia-nemotron-nano-9b-v2`
@@ -141,9 +133,6 @@ Total Models: **102**
 
 ### 🏢 STEPFUN-AI
 - `stepfun-ai/step-3.7-flash`
-
-### 🏢 THINKINGMACHINES
-- `thinkingmachines/inkling`
 
 ### 🏢 WRITER
 - `writer/palmyra-creative-122b`
