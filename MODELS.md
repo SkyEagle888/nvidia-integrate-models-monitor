@@ -1,8 +1,8 @@
 # 📋 NVIDIA Integrated Models List
 
-*Last updated: 2026-08-27 19:12:02 GMT+8*
+*Last updated: 2026-08-28 20:46:25 GMT+8*
 
-Total Models: **84**
+Total Models: **83**
 
 ### 🏢 01-AI
 - `01-ai/yi-large`
@@ -119,9 +119,6 @@ Total Models: **84**
 
 ### 🏢 SNOWFLAKE
 - `snowflake/arctic-embed-l`
-
-### 🏢 STEPFUN-AI
-- `stepfun-ai/step-3.7-flash`
 
 ### 🏢 WRITER
 - `writer/palmyra-creative-122b`

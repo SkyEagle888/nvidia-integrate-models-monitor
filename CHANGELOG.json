@@ -544,6 +544,14 @@
         "nvidia/nvidia-nemotron-nano-9b-v2"
       ],
       "total_models": 84
+    },
+    {
+      "timestamp": "2026-08-28T12:46:25.114824Z",
+      "added": [],
+      "removed": [
+        "stepfun-ai/step-3.7-flash"
+      ],
+      "total_models": 83
     }
   ]
 }
