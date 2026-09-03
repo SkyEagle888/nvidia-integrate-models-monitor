@@ -552,6 +552,14 @@
         "stepfun-ai/step-3.7-flash"
       ],
       "total_models": 83
+    },
+    {
+      "timestamp": "2026-09-02T05:48:59.994636Z",
+      "added": [],
+      "removed": [
+        "nvidia/nemotron-3-nano-30b-a3b"
+      ],
+      "total_models": 82
     }
   ]
 }
