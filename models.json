@@ -72,7 +72,6 @@
   "nvidia/riva-translate-4b-instruct-v1.1",
   "nvidia/riva-translate-4b-instruct-v2",
   "nvidia/vila",
-  "openai/gpt-oss-120b",
   "openai/gpt-oss-20b",
   "poolside/laguna-xs-2.1",
   "snowflake/arctic-embed-l",
