@@ -560,6 +560,14 @@
         "nvidia/nemotron-3-nano-30b-a3b"
       ],
       "total_models": 82
+    },
+    {
+      "timestamp": "2026-09-04T05:53:45.324824Z",
+      "added": [],
+      "removed": [
+        "openai/gpt-oss-120b"
+      ],
+      "total_models": 81
     }
   ]
 }

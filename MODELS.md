@@ -1,8 +1,8 @@
 # 📋 NVIDIA Integrated Models List
 
-*Last updated: 2026-09-03 13:47:22 GMT+8*
+*Last updated: 2026-09-04 13:53:45 GMT+8*
 
-Total Models: **82**
+Total Models: **81**
 
 ### 🏢 01-AI
 - `01-ai/yi-large`
@@ -110,7 +110,6 @@ Total Models: **82**
 - `nvidia/vila`
 
 ### 🏢 OPENAI
-- `openai/gpt-oss-120b`
 - `openai/gpt-oss-20b`
 
 ### 🏢 POOLSIDE
